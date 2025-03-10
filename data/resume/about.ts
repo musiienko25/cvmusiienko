@@ -14,7 +14,7 @@ const about: Section = {
             //   href: "https://dmytro-oplachko.com",
             // },
             {
-              type: "paragraph ",
+              type: "paragraph",
               items: [
                 { type: "important", text: "Github: " },
                 {
@@ -29,7 +29,7 @@ const about: Section = {
               type: "paragraph",
               items: [
                 { type: "important", text: "Last Updated: " },
-                "Apr 1, 2023",
+                "Apr 3, 2023",
               ],
             },
           ],
