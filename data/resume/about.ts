@@ -14,7 +14,7 @@ const about: Section = {
             //   href: "https://dmytro-oplachko.com",
             // },
             {
-              type: "paragraph",
+              type: "paragraph ",
               items: [
                 { type: "important", text: "Github: " },
                 {
