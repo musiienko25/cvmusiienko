@@ -29,7 +29,7 @@ const about: Section = {
               type: "paragraph",
               items: [
                 { type: "important", text: "Last Updated: " },
-                "Apr 3, 2023",
+                "Apr 4, 2023",
               ],
             },
           ],
